@@ -1,0 +1,25 @@
+{
+  "dialogueList": [
+    {
+      "ID": 1,
+      "fr": "Bonjour",
+      "en": "Hello",
+      "nomFR": "Nathan",
+      "nomEN": "Nate"
+    },
+    {
+      "ID": 2,
+      "fr": "Ça dit quoi mon reuf ?",
+      "en": "How are you bro ?",
+      "nomFR": "Seigneur Enma",
+      "nomEN": "Lord Enma"
+    },
+    {
+      "ID": 3,
+      "fr": "test",
+      "en": "test",
+      "nomFR": "Nom Français",
+      "nomEN": "Nom Anglais"
+    }
+  ]
+}
